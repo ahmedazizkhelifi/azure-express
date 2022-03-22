@@ -1,0 +1,18 @@
+{
+  "name": "dd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3",
+    "node-libcurl": "^2.3.4",
+    "request": "^2.88.2"
+  }
+}

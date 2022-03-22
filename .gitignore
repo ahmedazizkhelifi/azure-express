@@ -1,0 +1,7 @@
+**/node_modules
+.env
+
+*.py
+*.html
+x.js
+*.sh
